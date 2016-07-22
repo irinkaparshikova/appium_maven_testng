@@ -17,7 +17,7 @@ public class BasePage extends AndroidSetup {
         this.driver = driver;
     }
 
-    //This is the peace of every locator on the page
+    //This is the peace of every locator on the app page
     String app_package_name = "com.linkedin.android:id/";
 
     //Method that waits for visiability of UI element
