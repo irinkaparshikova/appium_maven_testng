@@ -1,8 +1,9 @@
-package SetUp;
+package Tests;
 
 import PageObjects.HomePage;
 import PageObjects.LoginPage;
 import PageObjects.MessagePage;
+import SetUp.AndroidSetup;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
